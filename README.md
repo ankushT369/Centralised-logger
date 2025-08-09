@@ -6,5 +6,5 @@ Centralised-logger is a log processor takes logs from differnet microservices
 
 `~$ cd contoller`
 
-`~$ ./orchestrator`
+`~$ ./orchestrator.sh`
 
